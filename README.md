@@ -2,29 +2,6 @@
 
 This project is a simple expense tracker built with React. It allows users to add and delete expenses, and it provides components for managing transactions.
 
-## Getting Started
-
-To get started with the Expense Tracker, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-4. Run `npm start` to start the development server.
-5. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
-
-## Available Scripts
-
-In the project directory, you can run the following scripts:
-
-### `npm start`
-
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
 ## Components
 
 The Expense Tracker consists of the following components:
@@ -35,3 +12,43 @@ The Expense Tracker consists of the following components:
 - **IncomeExpenses.js**: Component for displaying income and expenses.
 - **TransactionList.js**: Component for displaying the list of transactions.
 - **Transaction.js**: Component for displaying individual transactions.
+
+## Demo
+
+Check out the live demo [Expense-Tracker](http://aishwaryamensinkai.github.com/Expense-Tracker/).
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Installation
+
+To run this application locally, follow these steps:
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/aishwaryamensinkai/Expense-Tracker.git
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Expense-Tracker
+
+3. Install the packages using the command
+
+    ```bash
+    npm install
+
+## Contributing
+Contributions are welcome! If you'd like to add new features, improve existing ones, or fix any bugs, feel free to fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+- Weather data provided by OpenWeatherMap.
+- Inspiration and guidance from various online tutorials and resources.
