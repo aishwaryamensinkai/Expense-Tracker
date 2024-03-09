@@ -15,7 +15,7 @@ The Expense Tracker consists of the following components:
 
 ## Demo
 
-Check out the live demo [Expense-Tracker](http://aishwaryamensinkai.github.com/Expense-Tracker/).
+Check out the live demo [Expense-Tracker](https://aishwaryamensinkai.github.com/Expense-Tracker/).
 
 ## Technologies Used
 
