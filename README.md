@@ -50,5 +50,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- Weather data provided by OpenWeatherMap.
 - Inspiration and guidance from various online tutorials and resources.
